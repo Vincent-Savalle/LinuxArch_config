@@ -1,0 +1,4 @@
+
+style=~/.config/wofi/style.css
+
+show = dmenu
